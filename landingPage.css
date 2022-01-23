@@ -1,0 +1,161 @@
+body {
+  background-color: black;
+}
+button {
+  background-color: rgb(236, 240, 41);
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 25px;
+}
+.dashboard {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 15px;
+}
+.item {
+  text-align: center;
+  color: rgb(204, 199, 199);
+  padding-top: 10px;
+  padding-left: 160px;
+}
+.new {
+  text-align: center;
+  padding-top: 8px;
+}
+.leeft,.rightt {
+  color: rgb(204, 199, 199);
+  padding-left: 60px;
+  padding-right: 30px;
+}
+
+a {
+  color: rgb(204, 199, 199);
+}
+.one {
+  display: inline-block;
+}
+.site {
+  padding: auto;
+  background-color: black;
+}
+.another {
+  padding-left: 75px;
+  padding-right: 75px;
+  display: inline-block;
+  font-size: 25px;
+}
+.abstract {
+  font-family: "Cursive", Times, serif;
+  font-size: 55px;
+  color: aliceblue;
+}
+.under-abstract {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 22px;
+  color: rgb(105, 110, 116);
+}
+main {
+  padding-left: 70px;
+  padding-right: 700px;
+  background-color: black;
+}
+p {
+  color: rgb(123, 128, 134);
+}
+.walmart {
+  font-family: "Courier New", Courier, monospace;
+}
+.J-P-Morgan {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.visa {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.samsung {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.verizon {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.first-pic {
+  display: inline-block;
+}
+.spenceyelp {
+  font-size: 28px;
+  color: aliceblue;
+  font-family: "Cursive", Times, serif;
+  font-weight: lighter;
+}
+.at-one {
+  font-size: 40px;
+  color: aliceblue;
+  font-family: "Cursive", Times, serif;
+  font-weight: lighter;
+}
+.descrition {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 75px;
+  height: 45%;
+  font-size: 18px;
+  color: rgb(105, 110, 116);
+}
+.descrition-a {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-right: 70px;
+  height: 40%;
+  font-size: 17px;
+  color: rgb(105, 110, 116);
+}
+.between {
+  height: 70px;
+}
+.betwen {
+  height: 70px;
+  width: 130px;
+}
+.bet {
+  color: black;
+}
+section {
+  background-color: black;
+}
+.co-founder {
+  background-color: #2f3a46;
+  display: inline-block;
+}
+.leeft {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 75px;
+  height: 40%;
+  font-size: 16.5px;
+  padding-bottom: 5px;
+}
+.rightt {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-right: 70px;
+  height: 40%;
+  font-size: 16.5px;
+  padding-bottom: 5px;
+}
+.bett {
+  color: #2f3a46;
+  
+}
+footer {
+  background-color: #2f3a46;
+  padding-bottom: 5px;
+}
+.rrightt {
+  text-align: center;
+  padding-right: 70px;
+  padding-left: 1360px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-right: 70px;
+  height: 45%;
+  margin-top: 10px;
+  margin-bottom: 100px;
+  color: rgb(105, 110, 116);
+}
+.articl {
+  display: inline-block;
+}
